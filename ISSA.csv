@@ -1,4 +1,4 @@
-Record number,Origin of data,Subject number,Ethnicity,Gender,Age group,Body location,L*,a*,b*
+Record number,Origin of data,Subject number,Ethnicity,Gender,Age group,Body location,L,a,b
 1,1,1,CA,F,,6,64.6067,12.4109,18.2041
 2,1,1,CA,F,,9,63.6718,12.1603,19.2541
 3,1,1,CA,F,,2,60.8379,13.0638,19.1599
@@ -15254,4 +15254,5 @@ Record number,Origin of data,Subject number,Ethnicity,Gender,Age group,Body loca
 15253,11,2113,AB,M,4,1,57.4386,10.0357,17.1077
 15254,11,2113,AB,M,4,11,59.1217,10.9915,16.3031
 15255,11,2113,AB,M,4,10,49.1635,10.9243,16.0582
+
 15256,11,2113,AB,M,4,7,61.2813,7.8756,15.8206
